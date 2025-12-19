@@ -65,18 +65,17 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 * **NAMAA-Space (Contributor):**
     * **SAFIR-Leaderboard:** Contributed to benchmarking and evaluating Saudi Arabic Large Language Models.
 ---
-### 📊 Project & Career Dashboard
+### 📡 Live Project Status
 
-| Project / Goal | Category | Status | Details |
+| Project | Domain | Status | Progress / Outcome |
 | :--- | :--- | :--- | :--- |
-| **Bachelor's in CS** | 🎓 Education | ✅ **Finished** | Majmaah University |
-| **Tuwaiq Bootcamp** | 🎓 Education | ✅ **Finished** | Data Science & AI |
-| **SAFIR Leaderboard** | 🤖 AI / NLP | ✅ **Finished** | Contribution to NAMAA-Space |
-| **Sentiment Analysis** | 📊 Data Science | ✅ **Finished** | Final Project |
-| **CMT Certification** | 📈 Finance | 🔄 **Continuing** | Preparing for Level I Exam |
-| **Saudi Mamba AI** | 🤖 AI / NLP | 🔄 **Continuing** | Fine-tuning for Saudi Dialect |
-| **Financial Agents** | 🤖 AI / Agentic | 🔄 **Continuing** | Building Autonomous Market Analyzers |
-| **Cyber Awareness** | 💻 Web Dev | ⏸️ **Stopped** | Archived Project |
+| **Saudi Mamba AI** | 🧠 NLP | ![Active](https://img.shields.io/badge/Active-Trending_Up-orange?style=flat-square&logo=python) | *Fine-tuning on Saudi Dialects* |
+| **CMT Certification** | 📈 Finance | ![Loading](https://img.shields.io/badge/In_Progress-65%25-blue?style=flat-square&logo=statuspage) | *Level I Candidate* |
+| **Financial Agents** | 🤖 AI Agents | ![Building](https://img.shields.io/badge/Building-Beta-yellow?style=flat-square) | *Autonomous Market Analyzers* |
+| **SAFIR Leaderboard** | 📊 Benchmark | ![Done](https://img.shields.io/badge/Shipped-Success-success?style=flat-square&logo=github) | *Contribution to NAMAA-Space* |
+| **Sentiment Analysis** | 📉 Data Sci | ![Done](https://img.shields.io/badge/Completed-V1.0-success?style=flat-square) | *Final Project Delivered* |
+| **Tuwaiq Bootcamp** | 🎓 Edu | ![Done](https://img.shields.io/badge/Certified-Graduated-success?style=flat-square) | *Data Science & AI* |
+| **Cyber Awareness** | 🛡️ Security | ![Stopped](https://img.shields.io/badge/Stopped-Archived-lightgrey?style=flat-square) | *Project Halted* |
 ---
 
 ### 📫 Connect with Me
