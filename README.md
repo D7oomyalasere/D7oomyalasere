@@ -65,17 +65,22 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 * **NAMAA-Space (Contributor):**
     * **SAFIR-Leaderboard:** Contributed to benchmarking and evaluating Saudi Arabic Large Language Models.
 ---
-### 📡 Live Project Status
+### 🗺️ Strategic Roadmap & Project Status
 
-| Project | Domain | Status | Progress / Outcome |
-| :--- | :--- | :--- | :--- |
-| **Saudi Mamba AI** | 🧠 NLP | ![Active](https://img.shields.io/badge/Active-Trending_Up-orange?style=flat-square&logo=python) | *Fine-tuning on Saudi Dialects* |
-| **CMT Certification** | 📈 Finance | ![Loading](https://img.shields.io/badge/In_Progress-65%25-blue?style=flat-square&logo=statuspage) | *Level I Candidate* |
-| **Financial Agents** | 🤖 AI Agents | ![Building](https://img.shields.io/badge/Building-Beta-yellow?style=flat-square) | *Autonomous Market Analyzers* |
-| **SAFIR Leaderboard** | 📊 Benchmark | ![Done](https://img.shields.io/badge/Shipped-Success-success?style=flat-square&logo=github) | *Contribution to NAMAA-Space* |
-| **Sentiment Analysis** | 📉 Data Sci | ![Done](https://img.shields.io/badge/Completed-V1.0-success?style=flat-square) | *Final Project Delivered* |
-| **Tuwaiq Bootcamp** | 🎓 Edu | ![Done](https://img.shields.io/badge/Certified-Graduated-success?style=flat-square) | *Data Science & AI* |
-| **Cyber Awareness** | 🛡️ Security | ![Stopped](https://img.shields.io/badge/Stopped-Archived-lightgrey?style=flat-square) | *Project Halted* |
+```mermaid
+gantt
+    title 🚀 Strategic Roadmap (2024 - 2026)
+    dateFormat  YYYY-MM-DD
+    section 🎓 Foundation
+    Bachelor's Degree (CS)       :done,    des1, 2020-01-01, 2024-01-01
+    Tuwaiq AI Bootcamp           :done,    des2, 2024-06-01, 2024-09-01
+    section 🛠️ Development
+    SAFIR Benchmark (NAMAA)      :done,    des3, 2024-09-01, 2024-12-01
+    Saudi Mamba AI (NLP)         :active,  des4, 2024-11-01, 2025-04-01
+    Financial AI Agents          :active,  des5, 2025-01-01, 2025-06-01
+    section 📈 Finance
+    CMT Certification (L1)       :active,  des6, 2024-11-01, 2025-06-01
+    Algorithmic Trading Bot      :crit,    des7, 2025-06-01, 2026-01-01
 ---
 
 ### 📫 Connect with Me
