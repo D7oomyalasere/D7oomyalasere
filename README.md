@@ -82,8 +82,10 @@ gantt
     Tuwaiq AI Bootcamp           :done,    des2, 2025-10-12, 2025-12-18
     
     section ⚡ Projects
-    Sentiment analysis by text       :done,    des3, 2025-01-01, 2025-05-24
-    
+    Sentiment analysis by text   :done,    des3, 2025-01-01, 2025-05-24
+    102                          :done,    des4, 2025-02-01, 2025-05-24
+    103                          :done,    des5, 2025-03-01, 2025-05-24
+    104                          :done,    des6, 2025-04-01, 2025-05-24
     section 🔮 Future Pipeline
 
 
