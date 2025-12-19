@@ -73,7 +73,7 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 
 ```mermaid
 gantt
-    title 🚀 Strategic Roadmap (2024 - 2030)
+    title 🚀 Strategic Roadmap (2024 - 2026)
     dateFormat  YYYY-MM-DD
     axisFormat  %Q%y
     
