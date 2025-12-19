@@ -69,21 +69,24 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 * **X (Twitter):** [@D7oomyStay](https://x.com/D7oomyStay)
 ---
 
-
-### 🗺️ Strategic Roadmap & Project Status
+### 🗺️ Master Plan & Trajectory
 
 ```mermaid
 gantt
-    title 🚀 Strategic Roadmap (2024 - 2026)
+    title 🚀 Strategic Roadmap (2024 - 2030)
     dateFormat  YYYY-MM-DD
+    axisFormat  %Q%y
+    
     section 🎓 Foundation
     Bachelor's Degree (CS)       :done,    des1, 2020-01-01, 2024-01-01
     Tuwaiq AI Bootcamp           :done,    des2, 2024-06-01, 2024-09-01
-    section 🛠️ Development
-    SAFIR Benchmark (NAMAA)      :done,    des3, 2024-09-01, 2024-12-01
-    Saudi Mamba AI (NLP)         :active,  des4, 2024-11-01, 2025-04-01
+    
+    section ⚡ Active Ops
+    Saudi Mamba AI (NLP)         :active,  des3, 2024-11-01, 2025-05-01
+    CMT Certification (L1)       :active,  des4, 2024-11-01, 2025-06-01
     Financial AI Agents          :active,  des5, 2025-01-01, 2025-06-01
-    section 📈 Finance
-    CMT Certification (L1)       :active,  des6, 2024-11-01, 2025-06-01
-    Algorithmic Trading Bot      :crit,    des7, 2025-06-01, 2026-01-01
+    
+    section 🔮 Future Pipeline
+    TASI Algo-Trading Bot        :crit,    des6, 2025-06-01, 2026-01-01
+    Auto-Financial Analyst       :         des7, 2025-08-01, 2026-03-01
 
