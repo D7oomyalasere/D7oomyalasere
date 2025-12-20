@@ -75,7 +75,7 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 gantt
     title 🚀 Strategic Roadmap (2024 - 2026)
     dateFormat  YYYY-MM-DD
-    axisFormat  %Q%y
+    
     
     section 🎓 Foundation
     Bachelor's Degree (CS)       :done,    des1, 2019-01-01, 2025-08-24
