@@ -70,11 +70,22 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 ---
 
 ```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 
+              'primaryColor': '#BBDEFB',
+              'primaryTextColor': '#000000',
+              'primaryBorderColor': '#1565C0',
+              'lineColor': '#1565C0',
+              'secondaryColor': '#FFF9C4',
+              'tertiaryColor': '#fff',
+              'taskTextLightColor': '#000000',
+              'taskTextDarkColor': '#000000',
+              'taskTextOutsideColor': '#000000'
+       } } }%%
 gantt
     title 🗺️ Master Career Roadmap (2019 - 2026+)
     dateFormat  YYYY-MM-DD
     axisFormat  %Q-%Y
-
+    
     section 🎓 Academic Foundation
     Bachelor's Degree (CS)         :done,    edu1, 2019-01-01, 2025-08-24
     Tuwaiq AI Bootcamp             :done,    edu2, 2025-10-12, 2025-12-18
