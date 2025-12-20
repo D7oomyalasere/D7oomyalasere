@@ -70,17 +70,15 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 ---
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 
-              'primaryColor': '#BBDEFB',
-              'primaryTextColor': '#000000',
-              'primaryBorderColor': '#1565C0',
-              'lineColor': '#1565C0',
-              'secondaryColor': '#FFF9C4',
-              'tertiaryColor': '#fff',
-              'taskTextLightColor': '#000000',
-              'taskTextDarkColor': '#000000',
-              'taskTextOutsideColor': '#000000'
-       } } }%%
+%%{init: { 'theme': 'base', 'themeVariables': { 
+    'primaryColor': '#BBDEFB',
+    'secondaryColor': '#FFF9C4',
+    'tertiaryColor': '#fff',
+    'titleColor': '#FFFFFF', 
+    'textColor': '#FFFFFF',
+    'taskTextDarkColor': '#000000',
+    'taskTextLightColor': '#000000'
+} } }%%
 gantt
     title 🗺️ Master Career Roadmap (2019 - 2026+)
     dateFormat  YYYY-MM-DD
