@@ -82,7 +82,6 @@ My work relies on employing Machine Learning algorithms and Natural Language Pro
 gantt
     title 🗺️ Master Career Roadmap (2019 - 2026+)
     dateFormat  YYYY-MM-DD
-    axisFormat  %Q-%Y
     
     section 🎓 Academic Foundation
     Bachelor's Degree (CS)         :done,    edu1, 2019-01-01, 2025-08-24
