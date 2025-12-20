@@ -89,4 +89,3 @@ gantt
     Advanced AI Agents (Planned)   :         future1, 2026-06-01, 90d
     TASI Algo-Trading (Goal)       :crit,    future2, 2026-09-01, 120d
 
-
