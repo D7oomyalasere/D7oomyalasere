@@ -73,7 +73,7 @@ gantt
     title 🗺️ Master Career Roadmap (2019 - 2026+)
     dateFormat  YYYY-MM-DD
     axisFormat  %Q-%Y
-    
+
     section 🎓 Academic Foundation
     Bachelor's Degree (CS)         :done,    edu1, 2019-01-01, 2025-08-24
     Tuwaiq AI Bootcamp             :done,    edu2, 2025-10-12, 2025-12-18
